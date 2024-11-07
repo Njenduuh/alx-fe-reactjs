@@ -1,11 +1,15 @@
-import WelcomeMessage from './components/WelcomeMessage';
+
+import Header from './components/Header';
+import MainContent from './components/MainContent';
+import Footer from './components/Footer';
 
 function App() {
   return (
-      <div className="App">
-          <WelcomeMessage /> {/* This will render the WelcomeMessage component */}
-          {/* You can add other components or content here */}
-      </div>
+    <div>
+      <Header />
+      <MainContent />
+      <Footer />
+    </div>
   );
 }
 
