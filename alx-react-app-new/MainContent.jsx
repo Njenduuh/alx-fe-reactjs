@@ -1,5 +1,4 @@
 import React from 'react';
-import { UserProfile } from './UserProfile';
 
 function MainContent() {
   return (
@@ -12,9 +11,3 @@ function MainContent() {
 }
 
 export default MainContent;
-export default UserProfile;
-<<<<<<< HEAD
-
-// ich lerne Deutsch
-=======
->>>>>>> 491f6920b5eececb4e0edd3c8f55127c4d27e46e
