@@ -3,7 +3,7 @@ import Home from './Home';
 import About from './About';
 import Services from './Services';
 import Contact from './Contact';
-import Navbar from './Navbar'; // Ensure this matches your file name and location
+import Navbar from './Navbar';
 
 function App() {
   return (
