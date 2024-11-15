@@ -1,4 +1,19 @@
-"dependencies": {
-  "react": "^18.2.0", // or your specific version
-  "react-dom": "^18.2.0" // or your specific version
+{
+  "name": "my-company",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "ISC"
 }
