@@ -1,11 +1,12 @@
-import useRecipeStore from '../recipeStore';
+// src/components/RecipeList.jsx
+import { useRecipeStore } from './recipeStore';  // Correct path
 
 const RecipeList = () => {
-  const recipes = useRecipeStore((state) => state.recipes);
+  const recipes = useRecipeStore(state => state.recipes);
 
   return (
     <div>
-      {recipes.map((recipe) => (
+      {recipes.map(recipe => (
         <div key={recipe.id}>
           <h3>{recipe.title}</h3>
           <p>{recipe.description}</p>
