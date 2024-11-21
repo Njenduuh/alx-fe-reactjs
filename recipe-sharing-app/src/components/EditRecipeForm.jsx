@@ -1,20 +1,14 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { useRecipeStore } from './recipeStore';
+import { useRecipeStore } from '../recipeStore';
 
-const EditRecipeForm = ({ recipeId }) => {
-  const recipe = useRecipeStore((state) =>
-    state.recipes.find((recipe) => recipe.id === recipeId)
-  );
+const EditRecipeForm = ({ recipe }) => {
   const updateRecipe = useRecipeStore((state) => state.updateRecipe);
   const [title, setTitle] = useState(recipe.title);
   const [description, setDescription] = useState(recipe.description);
-  const navigate = useNavigate();
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    updateRecipe({ id: recipeId, title, description });
-    navigate(`/recipe/${recipeId}`);
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    updateRecipe({ ...recipe, title, description });
   };
 
   return (
