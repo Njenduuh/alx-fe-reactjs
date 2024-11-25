@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./components/Home";
 import Profile from "./components/Profile";
 import BlogPost from "./components/BlogPost";
+import Login from "./components/Login";
+import ProtectedRoute from "./components/ProtectedRoute";
 
 function App() {
   return (
@@ -19,14 +21,19 @@ function App() {
             <li>
               <Link to="/blog/1">Blog Post 1</Link>
             </li>
-            <li>
-              <Link to="/blog/2">Blog Post 2</Link>
-            </li>
           </ul>
         </nav>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/profile/*" element={<Profile />} />
+          <Route path="/login" element={<Login />} />
+          <Route
+            path="/profile/*"
+            element={
+              <ProtectedRoute>
+                <Profile />
+              </ProtectedRoute>
+            }
+          />
           <Route path="/blog/:id" element={<BlogPost />} />
         </Routes>
       </div>
