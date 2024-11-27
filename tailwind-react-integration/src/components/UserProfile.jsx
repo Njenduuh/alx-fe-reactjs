@@ -14,9 +14,10 @@ const UserProfile = () => {
 
       {/* User Info */}
       <h1 className="text-lg sm:text-xl md:text-2xl font-bold text-gray-800 text-center mb-2">
-        WIlson kabangi
+        Willie
+    
       </h1>
-      <p className="text-sm sm:text-base text-gray-600 text-center">
+      <p className="text-sm sm:text-base md:text-lg text-gray-600 text-center">
         A passionate web developer with a love for creating responsive and dynamic applications.
       </p>
     </div>
