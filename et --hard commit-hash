@@ -1,0 +1,545 @@
+[33mcommit 3c1a0ff02051b9963c278e48880b062abbf9c990[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Sun Dec 15 21:48:23 2024 +0300
+
+    Add files from alx-fe-reactjs without embedding repository
+
+[33mcommit c5decd100ad7d8585992f6e42fe617c189ea6776[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Sun Dec 15 11:14:40 2024 +0300
+
+    Put my talents in my bank account
+
+[33mcommit 35c9bdb811043cd4dba312ae011a88b3f651a02e[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Sun Dec 15 11:05:30 2024 +0300
+
+    initia set up of github something
+
+[33mcommit 14220dfe649fe55fe1a40297a2c2a27e13119829[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Sat Dec 7 12:01:47 2024 +0300
+
+    Added steps and validation
+
+[33mcommit 371dea8facfaf2c179679d783ead99e74b12c6f9[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Sat Dec 7 11:57:50 2024 +0300
+
+    Juice wrld X Coding
+
+[33mcommit bc5cbeee83f6831d7846591c28411714abb7f433[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Sat Dec 7 11:52:43 2024 +0300
+
+    I was jsut cooking, lol
+
+[33mcommit 8203ca51f48b488c435be3079dd90ab866e33611[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Dec 6 23:58:47 2024 +0300
+
+    '
+
+[33mcommit 9083c3f2f1c0fbf9ba681fa655a8b0b4a952ab08[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Dec 4 15:22:26 2024 +0300
+
+    Homepae.jsx containing link, react-router-dom
+
+[33mcommit 490124b996446b4492b2188e000a1524fedaae87[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Dec 4 15:06:41 2024 +0300
+
+    Router router App.jsx/App.js
+
+[33mcommit 03d0da9a31dd4fd875e8e7e452070086f7ae0c04[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Dec 4 14:59:42 2024 +0300
+
+    Added react router from App.js/App.jsx
+
+[33mcommit fc73cb93e404e0597f2f411ae2cf2e55dd55ada9[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Dec 4 14:47:17 2024 +0300
+
+    Added Dynamic Recupe Detail page
+
+[33mcommit 475e7d2b56ea53e5e2425a176feb7db399250515[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Dec 4 14:02:26 2024 +0300
+
+    Recipe Sharing Platform more interactive and user-friendly
+
+[33mcommit 5f98fc4588e00d4805fd4937983b179c84659b74[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Dec 4 13:30:44 2024 +0300
+
+    1st step of react-recipe-platfoe
+
+[33mcommit 884ec8de375ed621eca66b877096b20b875f1229[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 23:42:07 2024 +0300
+
+    atleast we stole the show
+
+[33mcommit 804c46e1d49bc6d82bf2a59348cdff4b462f3e7b[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 20:24:00 2024 +0300
+
+    Responsive Design Implementation Using Tailwind CSS
+
+[33mcommit 5fd2919b2f1318ca3d97b786fa351838a681439f[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 20:19:36 2024 +0300
+
+    Responsive Design Implementation Using Tailwind CSS
+
+[33mcommit 52ae92b12fd508db50d64bd11318577ff39c01ff[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 20:17:28 2024 +0300
+
+    Added typography
+
+[33mcommit 1f522d36c5c4ac8e3d617724e129bb3fe51efa62[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 20:12:50 2024 +0300
+
+    Added and fixed the required test d:max-w-sm class
+
+[33mcommit d953794ed55821ce672990e2aa80cc00a7e21f30[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 20:08:14 2024 +0300
+
+    Added usepfp with responsive design
+
+[33mcommit eb0cc11fee386740d2d5d9c58819b357d1a4ca34[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 20:05:04 2024 +0300
+
+    Added userprofile component with responsive design
+
+[33mcommit 4920779edf0a8850196d82abfe5021b2a37cd63f[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 19:43:38 2024 +0300
+
+    Intergrated react with tailwind css
+
+[33mcommit c731c82df37a8019107b05445d498696f4a2279b[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 00:26:50 2024 +0300
+
+    I miss her
+
+[33mcommit 81c02ce4aaf4136f3ef04f1a80dfc9f308f0dff9[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 00:25:14 2024 +0300
+
+    Added the test to the main component
+
+[33mcommit aac7478247b6ac78129d0072bc92b243231af4d4[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 00:23:07 2024 +0300
+
+    Added tests to components
+
+[33mcommit fcf82486912b51257928f837905f414d40f56c02[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 27 00:08:12 2024 +0300
+
+    Added and renamed App.jsx
+
+[33mcommit 7c893924a7ffc97f1ccfca89dfc5d7f438972ea8[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 26 13:21:46 2024 +0300
+
+    Added react-todo correctly
+
+[33mcommit bd627402e2b1bcf3e8786e67a191ca810198c6a4[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 26 12:56:24 2024 +0300
+
+    The todo list is done
+
+[33mcommit caa84964ba480e86395b7ceb4c0577f5075a886c[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 26 12:48:38 2024 +0300
+
+    The to-do list is working okay
+
+[33mcommit aca3d80fae664863540d1ff1df6ba73fc1a9b036[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 19:16:10 2024 +0300
+
+    Ensure ProtectedRoute is implemented
+
+[33mcommit 3a181536b96767c86ce9878da887421139351ab4[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 19:13:36 2024 +0300
+
+    Implement ProtectedRoute with useAuth hook
+
+[33mcommit 14c7f7e60bea9ed0592c3ba7b8aece54465da209[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 19:04:45 2024 +0300
+
+    Ensure dynamic routing implementation for Blogpost
+
+[33mcommit 5eefcc9510d06924720c46a7e7973ec4072b3e0f[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 19:01:40 2024 +0300
+
+    Implement dynamic routing with blogpost component
+
+[33mcommit c9187db94483e6d2d148d0303acfd0bbbe3b2a42[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:55:52 2024 +0300
+
+    Implement nested routes for profile
+
+[33mcommit 49ffba6b9afa33bbbfdea60b129db9ad2498fecd[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:51:08 2024 +0300
+
+    Added componentd from the main page
+
+[33mcommit 28e75eedb3a755ef085a1aa41b18bca8810e83fe[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:48:16 2024 +0300
+
+    Ensure package.json is included
+
+[33mcommit 8d1c507518b69b39aafe24b42b653f2c239367b8[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:43:55 2024 +0300
+
+    Resolve README.md conflicts
+
+[33mcommit 00ac6bdd4167640c8024cc3ad36053e8c5fc78ca[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:41:51 2024 +0300
+
+    Set up React Router with nested, dynamic, and protected routes
+
+[33mcommit 9f107639ace440f3011e6209bf9826a7635eef34[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:12:20 2024 +0300
+
+    React Query Caching options
+
+[33mcommit b598e73055b42a76845251bf18eda3c291596b37[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:08:41 2024 +0300
+
+    Created components under src
+
+[33mcommit 2143f7d30b6c02787b0d6013f859754fe4f3c133[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:06:22 2024 +0300
+
+    Added Readme.md
+
+[33mcommit 0aad82d4d5f947dace0d5f87236c42fff93f5b98[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 18:02:10 2024 +0300
+
+    Add PostsComponent to fetch and display posts using React Query
+
+[33mcommit b78ed0735b747e87ee769965be0f3909e274fc0a[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 15:59:09 2024 +0300
+
+    Added formikform.js
+
+[33mcommit 6e97476088ccf659d2aa01783f551e2d6a5f2373[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 15:45:57 2024 +0300
+
+    Added and intergrated fORMIK FORM
+
+[33mcommit 59b0893ad97b305065a4006303dc98eada4b9fd0[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 15:22:47 2024 +0300
+
+    Added formik small f
+
+[33mcommit f561eb5fda86267a4d64cccf71712b433fae6c51[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 15:16:11 2024 +0300
+
+    Added components in registration.form
+
+[33mcommit 445e32665e4df9a7480e85090964699ddd93bbae[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 15:13:15 2024 +0300
+
+    Fix controlled components setup in RegistrationForm
+
+[33mcommit ada1daeb68a69f78b22ad221cdf32d6d1722c3a9[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 25 15:10:08 2024 +0300
+
+    Implement controlled components and Formik form handling
+
+[33mcommit 084a8a0d366df72d998ae672057ebdfb41d7ab62[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 19:56:57 2024 +0300
+
+    added recommendationlist.js
+
+[33mcommit fa3a327e7f201da7b267d4ed4962bc49a3968934[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 19:40:04 2024 +0300
+
+     I'm good at this ngl
+
+[33mcommit 607f1eaf4cb4427101c8861783b9b4f1eb304c02[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 19:28:29 2024 +0300
+
+     Added Searchbar and the searchstore was updated
+
+[33mcommit 99d7f5309b1ec15a07231f9361b7e64a948fb642[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 19:07:27 2024 +0300
+
+     I've now fied everything
+
+[33mcommit 88abaef362662ff8e8cbef2271c1bcecfdb26805[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 18:57:02 2024 +0300
+
+     I think I'm pro at this
+
+[33mcommit 8423b62c71230fc549cc1f86b090b68534dc776d[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 18:47:18 2024 +0300
+
+     I wasn't iusing the correct format on the files
+
+[33mcommit effe80c627a7fe0faa95d7e42f1b7d877fafdb20[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 01:16:59 2024 +0300
+
+    One last time before i go to sleep
+
+[33mcommit a0284fdfb97e18459e242c7cff0e0f8786ac95a6[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 22 00:45:13 2024 +0300
+
+    Added store folde, wirklich
+
+[33mcommit 150335bfc262abc603d2ad0df0d3b5880775d1f9[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 21 23:58:11 2024 +0300
+
+    Added Some tricks lemie see
+
+[33mcommit f7a3b0fb324f328d476b9bbc72c858bc2841b25e[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 21 23:35:25 2024 +0300
+
+    Enhance Recipe Sharing App with detailed recipe management
+
+[33mcommit 23be9bf2c83c5b2bed190423e8197f4fc323dc8f[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 21 14:53:36 2024 +0300
+
+    Added more details on the recipe
+
+[33mcommit 825ed77cbddcf826a3f551d02c260ef53aff72b5[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 21 14:01:17 2024 +0300
+
+    Initial setup for Recipe Sharing app with zustand
+
+[33mcommit 7416c9a4fda0225c97724a85cf129b46515e8310[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 21 13:50:18 2024 +0300
+
+    Initial setup for Recipe Sharing App with Zustand
+
+[33mcommit c0458b0959dec33b5d5311485c5b867c8e8e7ea6[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 22:58:47 2024 +0300
+
+    a Simple Company Website with React
+
+[33mcommit c6801a8f5dbb8afbfcbced1f7898f64e7eed0e87[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 22:52:33 2024 +0300
+
+     Added them react-rouer-dom
+
+[33mcommit 22e7e25bfca07867fe328de2a724ca91977f087a[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 21:21:37 2024 +0300
+
+    Done and Done
+
+[33mcommit 5cdcbc6fed1107c41cd5267c87e1113b3386ea9a[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 21:02:34 2024 +0300
+
+    Package.json & Ract
+
+[33mcommit 78237c634034ecb0cfcc70f89b998611bc5c5e78[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 20:56:11 2024 +0300
+
+    Let's do it one more time
+
+[33mcommit 477a284604e01002d6b7b155dc64f69d44fe1210[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 20:20:01 2024 +0300
+
+     Added Components
+
+[33mcommit adab2765287c0a717020ceb4b662f559d483e0ce[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 20:07:41 2024 +0300
+
+    Added index app.jsx
+
+[33mcommit f67d667330c373f0c20861f020b309466ea0c4bc[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 19:25:22 2024 +0300
+
+    Install react-router-dom and fix errors
+
+[33mcommit fe6d0fa676fb1d53fd3abe06d6de4e21b03d325f[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 17:56:26 2024 +0300
+
+    Initial commit for my-company React app
+
+[33mcommit 5b65e8d50679df226c2955febf37ee0955a1f9ff[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Fri Nov 15 17:22:51 2024 +0300
+
+    Idk why package.js doesn't exist na mi naiona
+
+[33mcommit 94e4e8b6dd03f6a4b49091f72a001cf881faf979[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 23:01:57 2024 +0300
+
+    Implent routing in App.jsx
+
+[33mcommit 04c5c32bec9bb04d55d00bf254024a97ba0f499c[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 22:37:28 2024 +0300
+
+    Add react-router-dom dependency
+
+[33mcommit d10b51840f63279cc8f8dcaf3cf37080e74605e5[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 22:35:43 2024 +0300
+
+    Add react, react-dom, and vite dependencies
+
+[33mcommit b46efc9f7a003ccef2eaa29e42bc3c1b1268572c[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 22:31:46 2024 +0300
+
+    Add package.json file
+
+[33mcommit 86e2ec67a3c2eee04ba56cf914356b106c0a588f[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 22:27:25 2024 +0300
+
+    finished the company's website
+
+[33mcommit 6d2add915fdec36a5bf970427282802f9578833d[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 00:35:49 2024 +0300
+
+    Finally completed the refactor task
+
+[33mcommit 4e1491812a1827b0d3fcf33de2c331fb0aad2e5e[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 00:28:23 2024 +0300
+
+    What's so hard about this refactoring
+
+[33mcommit 29e708973ba1a0c0ef3e149df57c0b053d5b9923[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 14 00:20:09 2024 +0300
+
+    Added Refactor and this time am correct
+
+[33mcommit 1422d3d378d42173050f723ce1c1f4d4a9eb62a2[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 13 17:03:04 2024 +0300
+
+    added background,text color to header, styled userprofile,maincontent und footer too
+
+[33mcommit a59773dc447ad0e9da4959717134417dc8f5432f[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 13 16:36:28 2024 +0300
+
+    Added Counter component with increment, decrement, and reset functionality
+
+[33mcommit d315a1ddb9fc199874e89d2f9d9a9412b3a3ed59[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 12 02:05:36 2024 +0300
+
+    Did the Refactoring task again
+
+[33mcommit e496a4c74256b8ca6aee332f4761293c6b0c8ef4[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 12 01:58:07 2024 +0300
+
+    Did the Refactoring task
+
+[33mcommit 5bbec9ac351a5e28b5420c00a01d8c1575655b51[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 12 01:21:32 2024 +0300
+
+    Refactor to use Context API
+
+[33mcommit 7875f5633c6eef586c5823b506d356a65ae4ef2d[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 12 00:47:14 2024 +0300
+
+    Styled Header, UserProfile, MainContent, and Footer components with inline CSS
+
+[33mcommit 01da020537bd11eed147cb7e89fc25ff7e110e22[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Tue Nov 12 00:24:09 2024 +0300
+
+    Update .gitignore and add necessary files
+
+[33mcommit 86410ce4baacd72345c8efe8b4a101b3759e3acd[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Mon Nov 11 23:59:11 2024 +0300
+
+    Duplicate alx-react-app as alx-react-app-new and enhance components with inline styling
+
+[33mcommit 74ff8a32d6febdcfd639ebbdbd6a66ab4396b324[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 7 08:50:03 2024 +0300
+
+    Update UserProfile to display Alice's information
+
+[33mcommit f8c074dcc0a465ca116db702f132954ff5e1bba2[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 7 08:45:20 2024 +0300
+
+    Add UserProfile component with props for user info
+
+[33mcommit 198f66eb15fb453d661e7e0aa0b03e378ff727a7[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Thu Nov 7 08:14:39 2024 +0300
+
+    Add Header, MainContent, and Footer components
+
+[33mcommit 117d25e8ce51ae1f975e9301b381793a63129b8c[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 6 23:37:49 2024 +0300
+
+    Added Cities and heade,maincontent,footer.jsx
+
+[33mcommit a6dee29994304c6076ba93df37108b9184f2693c[m
+Author: Njenduuh <toxiccwillie@gmail.com>
+Date:   Wed Nov 6 23:09:40 2024 +0300
+
+    Added WelcomeMessage component and integrated it into App.jsx
