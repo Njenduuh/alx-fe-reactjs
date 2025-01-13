@@ -1,21 +1,27 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import RecipeList from './components/RecipeList';
-import AddRecipeForm from './components/AddRecipeForm';
-import RecipeDetails from './components/RecipeDetails';
+import { create } from 'zustand';
 
-const App = () => {
-  return (
-    <Router>
-      <div>
-        <h1>Recipe Sharing App</h1>
-        <Routes>
-          <Route path="/" element={<RecipeList />} />
-          <Route path="/add" element={<AddRecipeForm />} />
-          <Route path="/recipe/:id" element={<RecipeDetails />} />
-        </Routes>
-      </div>
-    </Router>
-  );
-};
+const useRecipeStore = create((set) => ({
+  recipes: [],
 
-export default App;
+  // Add a new recipe
+  addRecipe: (newRecipe) =>
+    set((state) => ({
+      recipes: [...state.recipes, newRecipe],
+    })),
+
+  // Update an existing recipe by ID
+  updateRecipe: (id, updatedRecipe) =>
+    set((state) => ({
+      recipes: state.recipes.map((recipe) =>
+        recipe.id === id ? { ...recipe, ...updatedRecipe } : recipe
+      ),
+    })),
+
+  // Delete a recipe by ID
+  deleteRecipe: (id) =>
+    set((state) => ({
+      recipes: state.recipes.filter((recipe) => recipe.id !== id),
+    })),
+}));
+
+export default useRecipeStore;
