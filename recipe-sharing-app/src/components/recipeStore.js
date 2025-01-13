@@ -1,22 +1,21 @@
-import create from 'zustand';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import RecipeList from './components/RecipeList';
+import AddRecipeForm from './components/AddRecipeForm';
+import RecipeDetails from './components/RecipeDetails';
 
-const useRecipeStore = create(set => ({
-  recipes: [], // List of all recipes
-  favorites: [], // List of favorite recipe IDs
-  addFavorite: (recipeId) => set(state => ({
-    favorites: [...state.favorites, recipeId]
-  })),
-  removeFavorite: (recipeId) => set(state => ({
-    favorites: state.favorites.filter(id => id !== recipeId)
-  })),
-  recommendations: [], // List of recommended recipes
-  generateRecommendations: () => set(state => {
-    // Example recommendation based on favorites
-    const recommended = state.recipes.filter(recipe =>
-      state.favorites.includes(recipe.id) && Math.random() > 0.5
-    );
-    return { recommendations: recommended };
-  }),
-}));
+const App = () => {
+  return (
+    <Router>
+      <div>
+        <h1>Recipe Sharing App</h1>
+        <Routes>
+          <Route path="/" element={<RecipeList />} />
+          <Route path="/add" element={<AddRecipeForm />} />
+          <Route path="/recipe/:id" element={<RecipeDetails />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+};
 
-export default useRecipeStore;
+export default App;
