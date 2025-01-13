@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Im
 import SearchBar from './components/SearchBar';
 import RecipeList from './components/RecipeList';
 import RecipeDetails from './components/RecipeDetails'; // Import RecipeDetails for the individual recipe view
+import AddRecipeForm from './components/AddRecipeForm'; // Import AddRecipeForm for the form to add a new recipe
 
 const App = () => {
   return (
@@ -15,7 +16,10 @@ const App = () => {
           <Route path="/" element={<RecipeList />} />
 
           {/* Route for displaying individual recipe details based on the recipe ID */}
-          <Route path="/recipe/:id" element={<RecipeDetails />} /> 
+          <Route path="/recipe/:id" element={<RecipeDetails />} />
+
+          {/* Route for displaying the Add Recipe form */}
+          <Route path="/add-recipe" element={<AddRecipeForm />} /> 
         </Routes>
       </div>
     </Router>
